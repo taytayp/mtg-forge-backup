@@ -1,5 +1,8 @@
 [metadata]
 Name=Commander - BLOR
+Deck Type=Constructed
+SleeveArt=c:Blor the Impervious|MBC|1
+SleeveOffset=632
 [Main]
 1 Aettir and Priwen|FIN|[253]
 1 Allosaurus Shepherd|2X2|[132]
